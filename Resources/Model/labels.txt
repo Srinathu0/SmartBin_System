@@ -1,0 +1,8 @@
+0 nothing
+1 carrot
+2 mango
+3 glue
+4 tape
+5 battery
+6 bottel
+7 adapter
